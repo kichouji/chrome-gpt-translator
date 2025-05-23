@@ -22,9 +22,9 @@ cd chrome-gpt-translator
 
 ### 2. Chrome拡張機能として読み込み
 1. Chromeで `chrome://extensions/` を開く<br><br>
-2. 右上の「デベロッパーモード」をON
+2. 右上の「デベロッパーモード」をON<br>
 <img src="image/devmode.png" width=200><br><br>
-3. 「パッケージ化されていない拡張機能を読み込む」をクリック
+3. 「パッケージ化されていない拡張機能を読み込む」をクリック<br>
 <img src="image/install.png" width=300><br><br>
 4. ダウンロードしたフォルダを選択
 
