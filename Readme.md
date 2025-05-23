@@ -35,6 +35,7 @@ cd chrome-gpt-translator
 2. [OpenAI API Keys](https://platform.openai.com/api-keys)でAPIキーを取得
 3. APIキーを入力して「設定を保存」
 <img src="image/config.png" width=500>
+
 ### 2. 詳細設定（オプション）
 - **使用モデル**: デフォルトは `gpt-4.1-nano`（自由に変更可能）
 - **最大文字数**: デフォルトは500文字（1-2000文字で設定可能）
